@@ -56,6 +56,8 @@ Plugin 'Valloric/YouCompleteMe'
 " Enables tern-project for JavaScript to assist YouCompleteMe
 Plugin 'marijnh/tern_for_vim'
 
+Plugin 'tomasr/molokai'
+
 " ###################################################################
 " #                        Key Mappings/Remapping                   #
 " ###################################################################
