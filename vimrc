@@ -78,7 +78,7 @@ set nu
 set shiftwidth=4 " Indents will have a width of 4
 :colorscheme molokai
 if $COLORTERM == 'gnome-terminal'
-         set t_Co=256
+ set t_Co=256
 endif
 set backspace=indent,eol,start " Allows to delete over line breakss
 let &colorcolumn="80,".join(range(120,999),",") " Visual marker after col 80
